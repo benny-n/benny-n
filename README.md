@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning game development with [bevy_engine](https://github.com/bevyengine/bevy)
+-  🌱 I'm currently learning [Go](https://go.dev)
 
 [![benny-n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benny-n&show_icons=true)](https://github.com/benny-n)
 <!--
