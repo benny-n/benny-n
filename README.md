@@ -1,7 +1,4 @@
 ### Hi there 👋
-I’m currently:
--  Maintaining [sogrim.org](https://sogrim.org) (check out the [repo](https://github.com/sogrim/technion-sogrim))
--  Looking to collaborate on cool Rust projects 🦀
 
 [![benny-n's GitHub Stats](https://github-readme-stats.vercel.app/api?username=benny-n&show_icons=true)](https://github.com/benny-n)
 <!--
